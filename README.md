@@ -52,10 +52,9 @@
 - **Tecnologías**: Laravel, Api-grok, Bootstrap, js, css, MySQL.
 - **Demo**: [Ver demo](https://github.com/Emilianoking/QQS)
 
-### **[Gestión Educativa Meta](https://github.com/Emilianoking/Gestion-Educativa-Meta)**
-- **Descripción**: Plataforma para gestionar municipios, colegios y sedes educativas en el Meta, usando Java y Maven.
+### **[Gestión Educativa Meta](https://github.com/Emilianoking/Meta-educacion)**
+- **Descripción**: Un proyecto para organizar y gestionar la información educativa del departamento de Meta, Colombia.
 - **Tecnologías**: Java, Maven, MySQL.
-- **Impacto**: Simplificó la administración educativa con una interfaz intuitiva.
 
 *(Más proyectos en mi [GitHub](https://github.com/Emilianoking?tab=repositories))*
 
