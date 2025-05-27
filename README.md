@@ -63,7 +63,7 @@
 ## 📬 **Contáctame**
 
 - 📧 **Email**: juncaxd12@gmail.com
-- 💼 **LinkedIn**: [Juan Camilo Gómez](https://www.linkedin.com/in/juan-camilo-gómezduarte-62b5b2325)
+- 💼 **LinkedIn:** [Juan Camilo Gómez Duarte](https://www.linkedin.com/in/juan-camilo-gómez-duarte-62b5b2325)
 - 🐎 **Fun Fact**: ¡Soy un apasionado por la equitación y el cuidado de caballos! 🐴
 
 > "Construyendo el futuro, una línea de código a la vez, con seguridad y creatividad."
