@@ -20,7 +20,7 @@
 
 | **Categoría**          | **Tecnologías**                                                                 |
 |------------------------|---------------------------------------------------------------------------------|
-| **Lenguajes**          | HTML, CSS, JavaScript, Java, C, C++, C#, Python, Dart, PHP                      |
+| **Lenguajes**          | HTML, CSS, JavaScript, Java, C++, C#, Python, Dart, PHP                      |
 | **Frameworks**         | React, Angular, Flutter, Bootstrap, Laravel, Express, Redux, Django ORM, Flask  |
 | **Bases de Datos**     | MySQL, PostgreSQL, MariaDB, MongoDB, CockroachDB                                |
 | **DevOps**             | Docker, Kubernetes, OpenShift, CI/CD                                           |
