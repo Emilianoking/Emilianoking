@@ -54,7 +54,7 @@
 
 ### **[Gestión Educativa Meta](https://github.com/Emilianoking/Meta-educacion)**
 - **Descripción**: Un proyecto para organizar y gestionar la información educativa del departamento de Meta, Colombia.
-- **Tecnologías**: Java, Maven, MySQL.
+- **Tecnologías**: Cockroach, php, js, css.
 
 *(Más proyectos en mi [GitHub](https://github.com/Emilianoking?tab=repositories))*
 
