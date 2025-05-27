@@ -47,11 +47,10 @@
 ---
 ## 💻 **Proyectos Destacados**
 
-### **[Sístole](https://github.com/Emilianoking/sistole)**
-- **Descripción**: Landing page profesional para médicos, diseñada con React y Bootstrap, enfocada en usabilidad y accesibilidad.
-- **Tecnologías**: React, Bootstrap, JavaScript, CSS.
-- **Impacto**: Mejoró la conectividad de perfiles profesionales mediante un bio-link optimizado.
-- **Demo**: [Ver demo](https://sistoleco.demo)
+### **[QQS](https://github.com/Emilianoking/QQS)**
+- **Descripción**: Desarrollo de un aplicativo web de orientación vocacional con inteligencia artificial, como guía para los estudiantes en su elección de carreras universitarias.
+- **Tecnologías**: Laravel, Api-grok, Bootstrap, js, css, MySQL.
+- **Demo**: [Ver demo](https://github.com/Emilianoking/QQS)
 
 ### **[Gestión Educativa Meta](https://github.com/Emilianoking/Gestion-Educativa-Meta)**
 - **Descripción**: Plataforma para gestionar municipios, colegios y sedes educativas en el Meta, usando Java y Maven.
