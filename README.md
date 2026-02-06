@@ -67,6 +67,14 @@
 
 ---
 
+### 🚗 **[Alertas de Movilidad Villavicencio](https://github.com/tu-usuario/alertas-movilidad)**
+- **Contexto**: Proyecto desarrollado para la **Hackathon de la Alcaldía de Villavicencio**.
+- **Rol**: **Líder de equipo y Desarrollador Full-Stack**.
+- **Descripción**: Plataforma de respuesta ciudadana para la gestión de tráfico, restricciones vehiculares (Pico y Placa) y alertas climáticas en tiempo real.
+- **Impacto**: Integración de geofencing y notificaciones multicanal para mejorar la movilidad urbana.
+- **Tecnologías**: Django, JavaScript puro, Google Maps API, Twilio, SendGrid.
+
+
 *(Más proyectos disponibles en mi [GitHub](https://github.com/Emilianoking?tab=repositories))*
 
 ---
