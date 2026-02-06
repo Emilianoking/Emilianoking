@@ -74,6 +74,13 @@
 - **Impacto**: Integración de geofencing y notificaciones multicanal para mejorar la movilidad urbana.
 - **Tecnologías**: Django, JavaScript puro, Google Maps API, Twilio, SendGrid.
 
+---
+### 👁️ **[Reconocimiento Facial con Face-API](https://github.com/Emilianoking/reconocimiento-facial-con-face-api)**
+- **Contexto**: Primera incursión en el desarrollo e implementación de Redes Neuronales Artificiales.
+- **Descripción**: Implementación de visión artificial en el lado del cliente para detección biométrica, análisis de expresiones y estimación demográfica en tiempo real.
+- **Logro Técnico**: Optimización del renderizado en canvas para procesar múltiples redes neuronales simultáneamente (SSD Mobilenet, Face Landmarks y Age/Gender Net) con baja latencia.
+- **Tecnologías**: JavaScript (ES6+), Face-api.js, TensorFlow.js, HTML5 Canvas.
+
 
 *(Más proyectos disponibles en mi [GitHub](https://github.com/Emilianoking?tab=repositories))*
 
