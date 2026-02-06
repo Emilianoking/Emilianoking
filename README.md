@@ -10,6 +10,7 @@
 ### 🧠 Sobre mí
 
 📚 Actualmente cursando **Ingeniería de Software** 
+
 🎓 Tecnólogo en Desarrollo de Software  
 🌍 Actualmente entre **España 🇪🇸** y **Colombia 🇨🇴**  
 💻 Apasionado por el desarrollo web, la seguridad informática y la inteligencia artificial  
