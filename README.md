@@ -30,19 +30,24 @@
 
 ---
 
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilianoking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF"/> </div>
-
-
----
-
 ## 🏆 **Logros y Certificaciones**
 
-- **Tecnólogo en Desarrollo de Software** (2025, en trámite)
-- **Full Stack Web Development** (Austral, Coursera, 2023)
-- **IBM Full Stack Software Developer** (Coursera, 2024)
-- **Mantenimiento de Dispositivos Móviles** (SENA, 2021, 4.5/5.0)
-- **Intercambio Virtual**: Seguridad de la Información 1 (Universidad Autónoma de Ciudad Juárez)
+- 🥈 **NASA Space Apps Challenge – Segundo Puesto a Nivel Nacional**  
+  Participación como **líder del proyecto CAGS – Project ARES**, desarrollando una solución basada en **IA, drones y sistemas distribuidos** para inspección y reparación autónoma.
+  
+- 📚 Actualmente cursando **Ingeniería de Software**  
+
+- 🎓 **Tecnólogo en Desarrollo de Software** (2025)
+
+- 💻 **IBM Full Stack Software Developer** — Coursera (2024)
+
+- 🌐 **Full Stack Web Development** — Universidad Austral / Coursera (2023)
+
+- 🔧 **Mantenimiento de Dispositivos Móviles** — SENA (2021)  
+  Calificación: **4.5 / 5.0**
+
+- 🔐 **Intercambio Virtual: Seguridad de la Información I**  
+  Universidad Autónoma de Ciudad Juárez
 
 ---
 ## 💻 **Proyectos Destacados**
