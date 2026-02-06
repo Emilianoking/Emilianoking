@@ -47,16 +47,23 @@
 ---
 ## 💻 **Proyectos Destacados**
 
-### **[QQS](https://github.com/Emilianoking/QQS)**
-- **Descripción**: Desarrollo de un aplicativo web de orientación vocacional con inteligencia artificial, como guía para los estudiantes en su elección de carreras universitarias.
-- **Tecnologías**: Laravel, Api-grok, Bootstrap, js, css, MySQL.
+### 🚀 **[CAGS – Project ARES](https://github.com/Emilianoking/Project-ARES)**
+- **Contexto**: Proyecto desarrollado para el **NASA Space Apps Challenge**.
+- **Rol**: **Líder del proyecto y arquitecto del sistema de IA**.
+- **Descripción**: Plataforma para inspección, diagnóstico y reparación autónoma mediante drones inteligentes en entornos críticos.
+- **Tecnologías**: Python, IA/ML, Django, React, WebSockets, MQTT, PostgreSQL.
+- **Estado**: Versión **BETA**.
+
+---
+
+### 🧠 **[QQS](https://github.com/Emilianoking/QQS)**
+- **Descripción**: Aplicativo web de orientación vocacional con inteligencia artificial para apoyar a estudiantes en la elección de carreras universitarias.
+- **Tecnologías**: Laravel, API Grok, Bootstrap, JavaScript, CSS, MySQL.
 - **Demo**: [Ver demo](https://github.com/Emilianoking/QQS)
 
-### **[Gestión Educativa Meta](https://github.com/Emilianoking/Meta-educacion)**
-- **Descripción**: Un proyecto para organizar y gestionar la información educativa del departamento de Meta, Colombia.
-- **Tecnologías**: Cockroach, php, js, css.
+---
 
-*(Más proyectos en mi [GitHub](https://github.com/Emilianoking?tab=repositories))*
+*(Más proyectos disponibles en mi [GitHub](https://github.com/Emilianoking?tab=repositories))*
 
 ---
 
