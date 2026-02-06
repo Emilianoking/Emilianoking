@@ -9,6 +9,7 @@
 
 ### 🧠 Sobre mí
 
+📚 Actualmente cursando **Ingeniería de Software** 
 🎓 Tecnólogo en Desarrollo de Software  
 🌍 Actualmente entre **España 🇪🇸** y **Colombia 🇨🇴**  
 💻 Apasionado por el desarrollo web, la seguridad informática y la inteligencia artificial  
@@ -33,9 +34,7 @@
 ## 🏆 **Logros y Certificaciones**
 
 - 🥈 **NASA Space Apps Challenge – Segundo Puesto a Nivel Nacional**  
-  Participación como **líder del proyecto CAGS – Project ARES**, desarrollando una solución basada en **IA, drones y sistemas distribuidos** para inspección y reparación autónoma.
-  
-- 📚 Actualmente cursando **Ingeniería de Software**  
+  Participación como **líder del proyecto CAGS – Project ARES**, desarrollando una solución basada en **IA, drones y sistemas distribuidos** para inspección y reparación autónoma. 
 
 - 🎓 **Tecnólogo en Desarrollo de Software** (2025)
 
