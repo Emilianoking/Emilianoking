@@ -43,8 +43,7 @@
 
 - 🌐 **Full Stack Web Development** — Universidad Austral / Coursera (2023)
 
-- 🔧 **Mantenimiento de Dispositivos Móviles** — SENA (2021)  
-  Calificación: **4.5 / 5.0**
+- 🔧 **Mantenimiento de Dispositivos Móviles** — SENA (2021) 
 
 - 🔐 **Intercambio Virtual: Seguridad de la Información I**  
   Universidad Autónoma de Ciudad Juárez
